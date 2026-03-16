@@ -1,4 +1,7 @@
 # FRESHFOOD – AI-Driven Food Waste Prediction & Analytics Platform
+## Project Poster
+
+![FreshFood Poster](Fresh_Food_poster.jpg)
 
 AI-driven food waste prediction and traceability platform using analytics, IoT, blockchain, and dashboard-driven decision support.
 
