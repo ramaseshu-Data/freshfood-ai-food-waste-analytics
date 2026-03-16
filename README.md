@@ -143,5 +143,17 @@ Potential future enhancements include:
 This project reflects the transition from operational reporting and data analytics into **analytics-driven solution design**.
 
 It combines **predictive analytics, monitoring systems, and data transparency** to support sustainability and data-driven decision making.
+## Sample Analytics Implementation
 
+This repository also includes a simple Python-based analytics example:
+
+- `food_waste_analysis.py`
+
+The script demonstrates:
+- sample food waste data modelling
+- KPI calculation
+- waste and recovery percentage analysis
+- simple trend-based prediction using linear regression
+
+This reflects the analytics perspective of the FreshFood platform and connects the business idea with practical data analysis.
 ---
