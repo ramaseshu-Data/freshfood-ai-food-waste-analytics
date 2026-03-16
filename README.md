@@ -159,4 +159,8 @@ The script demonstrates:
 - simple trend-based prediction using linear regression
 
 This reflects the analytics perspective of the FreshFood platform and connects the business idea with practical data analysis.
----
+---## Food Waste Trend Analysis
+
+This chart shows a simple trend analysis of monthly food waste used in the sample analytics script.
+
+![Food Waste Trend Analysis](food_waste_trend_analysis.png)
