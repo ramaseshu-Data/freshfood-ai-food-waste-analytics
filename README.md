@@ -85,7 +85,15 @@ This aligns closely with **business intelligence and analytics workflows used in
 ## Skills Demonstrated
 
 This project demonstrates the following skills:
+## Technologies & Tools
 
+- Python
+- Pandas
+- Scikit-learn
+- Data Analytics Concepts
+- Business Intelligence Thinking
+- Predictive Analytics
+- Data Modelling
 - Data Analytics
 - Predictive Analytics
 - Data Modelling
@@ -140,8 +148,7 @@ Potential future enhancements include:
 
 ## Why This Project Matters
 
-This project reflects the transition from operational reporting and data analytics into **analytics-driven solution design**.
-
+This project reflects my transition from operational reporting and data analytics into analytics-driven solution design and predictive analytics.
 It combines **predictive analytics, monitoring systems, and data transparency** to support sustainability and data-driven decision making.
 ## Sample Analytics Implementation
 
