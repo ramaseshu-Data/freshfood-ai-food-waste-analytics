@@ -81,19 +81,14 @@ From a data analytics perspective, the platform enables:
 This aligns closely with **business intelligence and analytics workflows used in modern data-driven organizations.**
 
 ---
-
-## Skills Demonstrated
-
-This project demonstrates the following skills:
 ## Technologies & Tools
 
 - Python
 - Pandas
 - Scikit-learn
-- Data Analytics Concepts
-- Business Intelligence Thinking
-- Predictive Analytics
-- Data Modelling
+- ## Skills Demonstrated
+
+This project demonstrates the following skills:
 - Data Analytics
 - Predictive Analytics
 - Data Modelling
@@ -116,21 +111,22 @@ This repository includes:
 - Architecture Overview
 
 ---
-
 ## Academic Context
 
-This project was developed as part of the **Socio-Technical Entrepreneurship module** in the MSc Computing (Information Systems & Processes) programme at:
+This project was inspired by coursework completed during the MSc Computing (Information Systems & Processes) programme at **South East Technological University (SETU), Waterford, Ireland**.
 
-**South East Technological University (SETU), Waterford, Ireland**
+The concept was further expanded and documented by me from a **data analytics and reporting perspective**, focusing on predictive analytics, KPI tracking, and decision-support systems.
 
 
-I developed  the **data analytics and reporting perspective of the platform**, including:
+## My Contribution
 
-- problem analysis
+For this repository, I developed and documented the **data analytics and reporting perspective** of the platform, including:
+
+- problem analysis and business use-case framing
 - analytics-driven solution design
-- KPI definition and reporting perspective
-- system workflow design
-- business intelligence interpretation
+- KPI definition and reporting framework
+- system workflow interpretation
+- business intelligence perspective for decision-makers
 
 ---
 
